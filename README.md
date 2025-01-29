@@ -1,4 +1,4 @@
-📈 India's Export Trade Forecasting and Analysis
+📈 **India's Export Trade Forecasting and Analysis**
 
 ✅ Developed a robust **forecasting model** to predict India’s export trends using time series analysis and machine learning.  
 
