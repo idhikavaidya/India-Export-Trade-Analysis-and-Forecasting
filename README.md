@@ -6,4 +6,4 @@
 
 The project leverages Python, Pandas, and Power BI to analyze historical data, identify key trends, and forecast future exports with high accuracy.
 
-<img src= "Project Screenshot.jpg">
+<img src= "Project Screenshot.png">
